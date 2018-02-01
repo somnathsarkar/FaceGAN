@@ -1,3 +1,5 @@
 Notebooks/.ipynb_checkpoints/*-checkpoint.ipynb
 Data/train.csv
 Data/test.csv
+Data/lfw/*
+Data/lfw_grayscale_32.csv
