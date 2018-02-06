@@ -4,3 +4,4 @@ Data/test.csv
 Data/lfw/*
 Data/lfw_grayscale_32.csv
 Models/
+Data/lfw_grayscale_64.csv
