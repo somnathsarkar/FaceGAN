@@ -2,6 +2,9 @@ Notebooks/.ipynb_checkpoints/*-checkpoint.ipynb
 Data/train.csv
 Data/test.csv
 Data/lfw/*
+Data/img_align_celeba/*
 Data/lfw_grayscale_32.csv
 Models/
 Data/lfw_grayscale_64.csv
+Data/lfw_grayscale_28.csv
+Data/celeba_*
