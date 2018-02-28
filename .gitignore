@@ -8,3 +8,4 @@ Models/
 Data/lfw_grayscale_64.csv
 Data/lfw_grayscale_28.csv
 Data/celeba_*
+Data/output/
